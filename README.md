@@ -15,10 +15,26 @@
 - Conducting regular standups to monitor progress in the development process.
 - Having a clear plan in place that specifies tasks and deadlines team members have to meet
 - Ensuring that the team has the required resources and tools for development to ensure smooth workflow
-- Using projects management tools such as Jita to track progress in development
+- Using projects management tools such as Jira to track progress in development
 - Using agile methodology to ensure flexibility in development.
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+.Cost control is ensures success by;
+-Ensuring the project budget is followed and the project remains financially viable
+-Helping managers spot risks and mitigate them in time
+-Ensuring resources are allocated where needed most and optimally utilized 
+-Helping maintain investor confidence and trust ensuring project success 
+
+~Project managers can use a myriad of strategies including;
+
+- Regular monitoring of the budget incase cost minimises real timebudget
+- Optimising the use of resources both human and tooks to ensure smooth and effective workflow
+- Having a clear budget in place that considers all relevant costs of the project
+- Conducting regular risk assessments to ensure potential risks are identified with their budget impact
+- Using agile methodology that enable flexibility and easily adapt to changes in the development process
+- Incase one is using outside advertising and marketing teams ensure terms are clearly spelt out to prevent unwanted costs 
+
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
