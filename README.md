@@ -36,8 +36,46 @@
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+• Agile methodology is an incremental and iterative way in which project is divided into small bits while waterfall is a linear methodology where the output of a present phase is the input of the subsequent.
+• Advantages of agile methodology
+- Quick delivery to the user as the project is handled much faster.
+- Flexible in that it easily conforms to changes in the project
+- Frequent feedback allows for developers to improve the software to user needs
+• Disadvantages of agile methodology
+-It is difficult to predict project timeline as it is highly adaptive
+-Needs active customer feedback which may not always be available
+-Project requirements can easily change leading to deployment delays
+
+• Advantages of waterfall methodology 
+-Has a structure in place which make project workflow easy
+- Easily manageable as progress and deadlines are easy to track
+- Has a clear documentation in place and which can easily be referenced
+- Project outcomes can be predicted as requirements are specified rarly in the development process.
+
+  • Disadvantages of waterfall methodologies
+  -It is difficult to implement changes to the project
+  - Testing delays make issues be spotted late in the process
+  - Its linear nature lengthens the delivery timeline.
+    
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+• Agile is beneficial in projects that potentially evolve over time and require constant customer involvement and feedback.
+_ For example a new start up creating a new website platform requires customer feedbacks to suitably change the requirements to user needs.
+
+• Waterfall methodology is sest for projects whose requirements hardly change and are clearly defined from onset.
+_An example is construction projects that have a clear structure in place hence a linear approach is best suited.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+- Regular testing of code at different development stages help identify and fix issues early
+- Frequent code reviewing helps fix bugs and enhance code quality
+- Automated testing tools provide quick feedback on code quality
+- Involving sample pool of end users to yest the project helps know if the product meets user needs
+
+  • Maintaining high standards is crucial as it :
+  -Helps minimise risks and costs associated with late repairs
+  -Ensures customer satisfaction and trust in the product
+  -Ensure cost efficiency by preventing costly late repairs to the project
+  -Boosts competitive advantage as quality products attract large customer pool
+  - Improves snd and boosts developers morale and motivation in their projects.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
