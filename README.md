@@ -77,6 +77,19 @@ _An example is construction projects that have a clear structure in place hence 
   -Boosts competitive advantage as quality products attract large customer pool
   - Improves snd and boosts developers morale and motivation in their projects.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+• Defining project scope is useful in:
+-Clarifying the project goals and objectives early so team members know theproject goals 
+-Identifying required resources in time for smooth workflow 
+- Helps developers stay focused on the project objectives without straying
+- Assists developers in spotting potential risks and mitigating them early
+
+  •A Work Breakdown Structure is a division of the project into smaller manageable tasks
+  • It is important in:
+  - Effective work organisation as tasks are divided into smaller tasks and can be easily tracked
+  - Assists in estimating time and financial resources more accurately
+  - Easily understandable hence improves communication between team members
+  - Makes it easier to track projectprogressand ensure it maintains project objectives
+    
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
