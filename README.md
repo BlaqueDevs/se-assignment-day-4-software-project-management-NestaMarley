@@ -91,9 +91,42 @@ _An example is construction projects that have a clear structure in place hence 
   - Makes it easier to track projectprogressand ensure it maintains project objectives
     
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+-Enables developers and stakeholders easily track the process of development 
+-Helps to prioritize urgent and needy tasks in time thereby improving project time management 
+-Provides a clear understanding of goals and tasks for all team members so they each play their roles accordingly 
+-Assistsbin effective resources allocation and helps avoid wastage ensuring optimization 
+-Enhances accountability amongst team members so everyone knows what is required of them.
+
+.Gantts chart assist in this process by:
+- Providing a visual timeline representation that assigns rach task a determined time frame
+- Help developers and stakeholders understand how resources are being utilized
+- Provide updates on the process as they can be easily adjust to reflect upcoming changes in the project
+- Ensure team collaboration by functioning as a reference point for developers
+- Enable tracking if project progress against important project objectives
+
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+• User experience as most systems are hard to navigate and use
+- A good user experience provides users satisfaction and attracts more users to the system
+  •Slow performance and speed can prove daunting to users and they may leave their tasks incomplete
+- Fast performing systems improve  the efficiency of tasks performed by users and they help avoid delays
+  •Security and privacy of user data from restricted users and breaches
+  -Users always want their sensitive data to be safeguard and a strong system security helps ensure that
+  • Reliability and stability in the software as a crashing system can cause data loss
+  - Stable software system helps maintain trust and reliance by users
+    •Integration with other development tools is relied by many users to accomplish their various tasks
+    -Seamless integration helps users align their tasks with other tools easily
+    • User flexibility as different users have different needs
+    -Allowing users customise their various needs help attract a larger customer base.
+    
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+-Improves communication between team members as everyone is focused and stays aligned on the program goals and objectives 
+-Clearly specifies user needs and developers can  suit their projects to client expectations 
+-Guides developers in prioritizing the most critical aspects required in development and act accordingly
+-Potential risks can be identified early in the process and mitigated accordingly avoiding project delays 
+- Can lead to new ideas as developers are aware of what exactly requires fixing.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
