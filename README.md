@@ -126,7 +126,36 @@ _An example is construction projects that have a clear structure in place hence 
 -Potential risks can be identified early in the process and mitigated accordingly avoiding project delays 
 - Can lead to new ideas as developers are aware of what exactly requires fixing.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+ - Explaining the core issues my software aims to solve in precision
+ - Identifying my target audience and their needs and suit my software to their expectations
+ - Highlighting the unique value my software offers to the users in relation to other existing alternatives
+ - Describing the main features and benefits my software has and their functions
+ - Explaining the positive impacts  and objectives my software aims to achieve 
+ - 
 
 ## 11. What are the main features or functionalities that make your software stand out?
+- User friendly interaction that allows for easy communication with users
+- Understanding and responding to users in a converstional manner that which they understand
+- Wide knowledge base with data and information across various subjects
+- Providing relevant responses to users based on the context of the conversation
+- Adaptability that is adjusting responses based on user prompts and tone
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+-Current revenue from the technology industry and the total number of users or businesses using same software to estimate market reach
+-Checking the growth process of my target market and the forecasted growth in the future 
+-Understanding who the users are and the target market and businesses 
+- Checking on the latest advancements in technology as it increases consumer demand and growth
+- Identifying other key players and competitors to spot shifts in market changes
+- Identifying geographically areas that require and can adopt to my software solutions 
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+It helps by:
+- Identifying users needs and suiting your software to meet their needs hence demand
+- Helps in staying competitive by placing unique features to your softwares different from competitors
+- Adapting to changes in the market and technology space easily and matching your software meet those needs
+- Revealing new user and business demography that may be growing and tailoring your software to their needs
+- Guiding you to improve customer experience and satisfaction and retaining your current market
+- Can help you make sustainable plans that which align with future trends or abrupt changes
+
+
+
